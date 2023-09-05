@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ed5d80d-7a56-4c89-a63a-dd9003f6f69a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/src/main/java/com/foronly/example/annotation/BuilderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/src/main/java/com/foronly/example/annotation/BuilderProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/src/main/resources/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/annotation-processor-util-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/classes/META-INF/services/javax.annotation.processing.Processor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/classes/com/foronly/example/annotation/BuilderProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/classes/com/foronly/example/annotation/BuilderProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/classes/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processor-util/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logback-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/src/main/java/com/foronly/example/annotation/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/src/main/resources/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/target/classes/com/foronly/example/annotation/demo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/target/classes/com/foronly/example/annotation/demo/PersonBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/target/classes/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/target/generated-sources/annotations/com/foronly/example/annotation/demo/PersonBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processor-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\maven_repository" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Uw7OKlTfCa9R0harInZHcmn27d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/WorkSpace/program_foronly_example/annotation-processor-sample/processor-demo/src/main/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.63563216",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\program_foronly_example\annotation-processor-sample\processor-demo\src\main\resources" />
+      <recent name="D:\WorkSpace\program_foronly_example\annotation-processor-sample\annotation-processor-util\src\main\java\com\foronly\example\annotation" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86187\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ed5d80d-7a56-4c89-a63a-dd9003f6f69a" name="Changes" comment="" />
+      <created>1693838757863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693838757863</updated>
+      <workItem from="1693838759148" duration="2238000" />
+      <workItem from="1693929031484" duration="2699000" />
+    </task>
+    <servers />
+  </component>
+</project>

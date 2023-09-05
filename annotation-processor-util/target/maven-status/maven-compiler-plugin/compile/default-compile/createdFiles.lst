@@ -1,0 +1,3 @@
+com\foronly\example\annotation\BuilderProperty.class
+com\foronly\example\annotation\BuilderProcessor.class
+META-INF\services\javax.annotation.processing.Processor
