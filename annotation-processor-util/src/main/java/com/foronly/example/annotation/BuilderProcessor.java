@@ -18,7 +18,8 @@ import com.google.auto.service.AutoService;
 
 /**
  * <p>
- * {@link www.baeldung.com/java-annotation-processing-builder} 注解处理器的实现
+ * <a>www.baeldung.com/java-annotation-processing-builderwww.baeldung.com/java-annotation-processing-builder</a>
+ * 注解处理器的实现
  * </p>
  *
  * @author li_cang_long
